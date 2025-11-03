@@ -1,5 +1,5 @@
 # React Native News App - 'fran has news'
-
+To learn some fundamental React Native concepts and put them into practice, I have developed a basic news app.
 
 ## Features
 - Fetches BBC News headlines from newsapi
