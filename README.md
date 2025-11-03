@@ -1,8 +1,8 @@
-# React Native News App
+# React Native News App - 'fran has news'
 
 
 ## Features
-- Fetches bbc news headlines from newsapi
+- Fetches BBC News headlines from newsapi
 - Loading state while articles are being fetched
 
 ## Learnings/Concepts
@@ -13,6 +13,8 @@
 
 ## Coming soon
 - Link to full article from home page
+- Images
+- Styled buttons
 - Navigation
 
 ## Screenshots
